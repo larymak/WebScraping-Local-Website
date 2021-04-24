@@ -10,6 +10,9 @@ This program is able to fetch the:
 
 The code is also able to filter out unwanted skills so that you get job listings related to a particular skill set
 
+#### Sample Output
+![](https://github.com/larymak/Python-project-Scripts/blob/main/WebScraping/posts/Capture.PNG)
+
 ### Packages used
 - BeautifulSoup
 - requests 
